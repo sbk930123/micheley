@@ -5,7 +5,7 @@
   },
   "hosting": {
     "public": "dist",
-    "site": "michery-dev",
+    "site": "micheley-dev",
     "ignore": [
       "firebase.json",
       "**/.*",
